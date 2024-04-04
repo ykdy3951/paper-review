@@ -178,9 +178,13 @@ __pycache__/
 
 # data
 data/
+output/
 
 # virtual enviorment
+venv/
 lenet/
+alexnet/
+model/
 
 # lightning logs
 lightning_logs/
